@@ -1,2 +1,13 @@
+#include<iostream>
+using namespace std;
 
-I am a good girl !!!
+int main()
+{
+	int a = 10;
+	int b = 20;
+	int c = a + b;
+
+	cout << "a+b=" << c;
+
+}
+
